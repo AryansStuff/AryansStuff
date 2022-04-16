@@ -1,4 +1,6 @@
-### Hey I'm a 13 y/o who makes random things, I love working with java, python, C# and rust
+### Hey I'm a 13 y/o who makes random things, I love working with java, python, C# and rust check out my alt
+### AryanDoesStuff
+### Also I used to post on our FTC team's github account: Westridgebotics
 
 <!--
 **AryansStuff/AryansStuff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
