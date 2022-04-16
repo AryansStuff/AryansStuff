@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey I'm a 13 y/o who makes random things, I love working with java, python, C# and rust
 
 <!--
 **AryansStuff/AryansStuff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
